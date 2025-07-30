@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌟 ¡Hola! Soy Juan Plaza de los Reyes 
+# 🌟 ¡Hola! Soy Juan Plaza de los Reyes
+# Sitio aun en construcción ... 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
 
