@@ -119,7 +119,7 @@ const experiencia = {
 <img src="https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=infinity&logoColor=white" alt="DevOps"/>
 <br/>
 <strong>Fundamentos DevOps</strong><br/>
-<em>Instituto Adalid </em>
+<em>Instituto Adalid * 2024 </em>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
