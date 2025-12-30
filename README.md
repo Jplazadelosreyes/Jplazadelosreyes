@@ -96,8 +96,11 @@ const experiencia = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 </td>
 </tr>
@@ -112,7 +115,12 @@ const experiencia = {
 ## 🎓 **Certificaciones & Formación**
 
 <table>
-<tr>
+<tr><td align="center">
+<img src="https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=infinity&logoColor=white" alt="DevOps"/>
+<br/>
+<strong>Fundamentos DevOps</strong><br/>
+<em>Instituto Adalid </em>
+</td>
 <td align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <br/>
