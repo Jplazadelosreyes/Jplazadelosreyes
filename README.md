@@ -1,274 +1,105 @@
 <div align="center">
 
-# 🌟 ¡Hola! Soy Juan Plaza de los Reyes
-### **Sitio aun en construcción ...** ### 
+# Juan Plaza de los Reyes
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Java+Full+Stack+Developer;Problem+Solver;Code+Enthusiast;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=D9A44A&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;Node+%C2%B7+Vue+%C2%B7+PostgreSQL;Del+dato+a+la+decisi%C3%B3n;Producci%C3%B3n+real%2C+mentalidad+de+producto" alt="Full Stack Developer · Node · Vue · PostgreSQL" />
 
-</div>
-
----
-
-<div align="center">
-
-## 🚀 **Desarrollador Apasionado Creando el Futuro Digital**
-
-*Transformando ideas en código eficiente y escalable* ✨
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-plaza-de-los-reyes-014991133/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.plazadelosreyesq@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jplazadelosreyes.github.io/jualen-portafolio/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-jplazadelosreyes.github.io-855D12?style=for-the-badge&logo=safari&logoColor=white)](https://jplazadelosreyes.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-plaza-de-los-reyes-014991133/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.plazadelosreyesq@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+### 👋 Sobre mí
 
-## 💼 **Experiencia Profesional**
+Developer **full stack** con base en **producción real** y mentalidad de producto.
+Entiendo el negocio detrás del sistema y busco la **causa**, no me quedo en el síntoma.
+Más que escribir código, resuelvo las necesidades del equipo y de los clientes.
 
-</div>
-
-<div align="left">
-
-### 🏢 **Web Application Developer** @ **ESCALENO** 
-*📅 Agosto 2021 - Presente | 📍 Chile*
-
-```typescript
-const experiencia = {
-  rol: "Web Application Developer",
-  responsabilidades: [
-    "🔧 Desarrollo y mantenimiento de aplicaciones web modernas",
-    "🚀 Diseño e implementación de nuevas funcionalidades",
-    "⚡ Optimización de bases de datos (PostgreSQL, MongoDB)",
-    "🔄 Participación en el ciclo completo de desarrollo",
-    "👥 Colaboración en metodologías ágiles"
-  ],
-  impacto: "Mejora continua en rendimiento y experiencia de usuario"
-};
-```
-
-</div>
+`📍 Barcelona / remoto`  ·  `🗣️ Español (nativo) · Inglés (B2)`  ·  `⏳ 5+ años en producción`
 
 ---
 
-<div align="center">
+### 🧩 Qué hago
 
-## 🛠️ **Arsenal Tecnológico**
+- **Reportería y análisis de datos** — del dato crudo al reporte que responde la pregunta correcta (PostgreSQL).
+- **Diseño de procesos y módulos** — automatizaciones punta a punta; varios nacieron de ideas propias y terminaron en producción.
+- **Integración y microservicios** — APIs REST, ingeniería inversa y validación de documentos contra fuentes oficiales.
+- **Observabilidad y optimización** — monitoreo en Kubernetes con Grafana; rastreo vía logs para optimizar procesos.
+- **Diagnóstico bajo presión** — llego a la causa raíz con datos, incluso cuando hay un cliente esperando.
 
-<table>
-<tr>
-<td align="center" width="50%">
+> 🔎 La versión completa, con casos y métricas → **[jplazadelosreyes.github.io](https://jplazadelosreyes.github.io)**
 
-### **Backend & APIs**
+---
+
+### 🛠️ Stack
+
+**Backend & Datos**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Zend](https://img.shields.io/badge/Zend-0679EA?style=for-the-badge&logo=zend&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-</td>
-<td align="center" width="50%">
-
-### **Bases de Datos**
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
+**Frontend**
 
-### **Frontend & UI**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 
-</td>
-<td align="center" width="50%">
+**Infra & DevOps**
 
-### **DevOps & Herramientas**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+**BI & Automatización**
 
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🎓 **Certificaciones & Formación**
-
-<table>
-<tr><td align="center">
-<img src="https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge&logo=infinity&logoColor=white" alt="DevOps"/>
-<br/>
-<strong>Fundamentos DevOps</strong><br/>
-<em>Instituto Adalid * 2024 </em>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<br/>
-<strong>Docker & Kubernetes</strong><br/>
-<em>Udemy • 2024</em>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<br/>
-<strong>Full Stack Java Trainee</strong><br/>
-<em>Edutecno • 2021</em>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/University-4CAF50?style=for-the-badge&logo=google-scholar&logoColor=white" alt="University"/>
-<br/>
-<strong>Ingeniería Informática</strong><br/>
-<em>UDP • 2019-2021</em>
-</td>
-</tr>
-</table>
-
-</div>
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
 ---
 
 <div align="center">
 
-## 📊 **GitHub Analytics**
+### 📊 GitHub
 
-<table>
-<tr>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</td>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=radical"/>
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=react-dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jplazadelosreyes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=d9a44a&icon_color=d9a44a&text_color=c9d1d9&bg_color=0f1216" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jplazadelosreyes&layout=compact&langs_count=8&hide_border=true&title_color=d9a44a&text_color=c9d1d9&bg_color=0f1216" />
 
 </div>
 
 ---
 
-<div align="center">
+### 🎓 Formación
 
-## 🌟 **Proyectos Destacados**
-
-</div>
-
-<div align="center">
-
-<!-- Aquí irán tus repos principales -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=NOMBRE_REPO_1&theme=radical)](https://github.com/TU_USERNAME/NOMBRE_REPO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=NOMBRE_REPO_2&theme=radical)](https://github.com/TU_USERNAME/NOMBRE_REPO_2)
-
-</div>
+| | | |
+|---|---|---|
+| **Fundamentos DevOps** · Instituto Adalid · 2025 | **Docker & Kubernetes** · Udemy · 2024 | **Full Stack Java** (bootcamp) · Edutecno · 2021 |
+| **Ingeniería en Informática y Gestión** · U. Diego Portales · 2019–2021 | | |
 
 ---
 
 <div align="center">
 
-## 💡 **Filosofía de Desarrollo**
+### 🤝 Conectemos
 
-<img src="https://readme-quotes-api.herokuapp.com/quote?theme=radical" alt="Quote" />
+Me involucro con el equipo y remo para el mismo lado. Si tienes un proyecto interesante o quieres compartir ideas, hablemos.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-plaza-de-los-reyes-014991133/)
+[![Email](https://img.shields.io/badge/Email-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.plazadelosreyesq@gmail.com)
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-<br/><strong>Código Limpio</strong>
-<br/>Escribir código que otros desarrolladores puedan entender y mantener fácilmente
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60">
-<br/><strong>Optimización</strong>
-<br/>Mejora continua del rendimiento y escalabilidad de las aplicaciones
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60">
-<br/><strong>Aprendizaje</strong>
-<br/>Siempre explorando nuevas tecnologías y metodologías de desarrollo
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎯 **Objetivos 2025**
-
-```javascript
-const objetivos2025 = {
-  tecnicos: [
-    "🔥 Profundizar en arquitecturas de microservicios",
-    "☁️ Certificación en AWS/Azure",
-    "🦄 Explorar tecnologías emergentes (AI/ML integration)",
-    "🏗️ Contribuir a proyectos open source"
-  ],
-  profesionales: [
-    "👥 Liderar proyectos técnicos",
-    "📚 Mentorear developers junior",
-    "🚀 Optimizar procesos de desarrollo",
-    "🌐 Expandir network profesional"
-  ]
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 **¡Conectemos!**
-
-<p>
-<strong>🔍 Siempre abierto a nuevos desafíos y colaboraciones</strong><br/>
-<em>¿Tienes un proyecto interesante? ¡Hablemos!</em>
-</p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanplaza)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
-
-<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 **Gracias por visitar mi perfil**
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>¡Espero que tengamos la oportunidad de colaborar pronto!</b></em>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>⭐ **¿Te gustó mi perfil? ¡Dale una estrella a mis repos!** ⭐</sub>
+<sub><img src="https://komarev.com/ghpvc/?username=Jplazadelosreyes&color=855d12&style=flat&label=Visitas+al+perfil" alt="Visitas" /></sub>
 
 </div>
